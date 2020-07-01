@@ -1,0 +1,3 @@
+/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles/STCA_weekly_coding.dir
