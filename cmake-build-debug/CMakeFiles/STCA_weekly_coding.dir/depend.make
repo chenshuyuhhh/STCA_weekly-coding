@@ -17,3 +17,17 @@ CMakeFiles/STCA_weekly_coding.dir/backTrack/solveNQueens.cpp.o: ../backTrack/sol
 
 CMakeFiles/STCA_weekly_coding.dir/backTrack/splitIntoFibonacci.cpp.o: ../backTrack/splitIntoFibonacci.cpp
 
+CMakeFiles/STCA_weekly_coding.dir/string/addStrings.cpp.o: ../string/addStrings.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII.cpp.o: ../string/braceExpansionII.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/string/canMakePaliQueries.cpp.o: ../string/canMakePaliQueries.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/string/lengthOfLastWord.cpp.o: ../string/lengthOfLastWord.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/string/removeSubfolders.cpp.o: ../string/removeSubfolders.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/string/spellchecker.cpp.o: ../string/spellchecker.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/string/validIPAddress.cpp.o: ../string/validIPAddress.cpp
+

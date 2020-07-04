@@ -339,6 +339,222 @@ backTrack/splitIntoFibonacci.cpp.s:
 	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/backTrack/splitIntoFibonacci.cpp.s
 .PHONY : backTrack/splitIntoFibonacci.cpp.s
 
+string/addStrings.o: string/addStrings.cpp.o
+
+.PHONY : string/addStrings.o
+
+# target to build an object file
+string/addStrings.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/addStrings.cpp.o
+.PHONY : string/addStrings.cpp.o
+
+string/addStrings.i: string/addStrings.cpp.i
+
+.PHONY : string/addStrings.i
+
+# target to preprocess a source file
+string/addStrings.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/addStrings.cpp.i
+.PHONY : string/addStrings.cpp.i
+
+string/addStrings.s: string/addStrings.cpp.s
+
+.PHONY : string/addStrings.s
+
+# target to generate assembly for a file
+string/addStrings.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/addStrings.cpp.s
+.PHONY : string/addStrings.cpp.s
+
+string/braceExpansionII.o: string/braceExpansionII.cpp.o
+
+.PHONY : string/braceExpansionII.o
+
+# target to build an object file
+string/braceExpansionII.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII.cpp.o
+.PHONY : string/braceExpansionII.cpp.o
+
+string/braceExpansionII.i: string/braceExpansionII.cpp.i
+
+.PHONY : string/braceExpansionII.i
+
+# target to preprocess a source file
+string/braceExpansionII.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII.cpp.i
+.PHONY : string/braceExpansionII.cpp.i
+
+string/braceExpansionII.s: string/braceExpansionII.cpp.s
+
+.PHONY : string/braceExpansionII.s
+
+# target to generate assembly for a file
+string/braceExpansionII.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII.cpp.s
+.PHONY : string/braceExpansionII.cpp.s
+
+string/braceExpansionII2.o: string/braceExpansionII2.cpp.o
+
+.PHONY : string/braceExpansionII2.o
+
+# target to build an object file
+string/braceExpansionII2.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII2.cpp.o
+.PHONY : string/braceExpansionII2.cpp.o
+
+string/braceExpansionII2.i: string/braceExpansionII2.cpp.i
+
+.PHONY : string/braceExpansionII2.i
+
+# target to preprocess a source file
+string/braceExpansionII2.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII2.cpp.i
+.PHONY : string/braceExpansionII2.cpp.i
+
+string/braceExpansionII2.s: string/braceExpansionII2.cpp.s
+
+.PHONY : string/braceExpansionII2.s
+
+# target to generate assembly for a file
+string/braceExpansionII2.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII2.cpp.s
+.PHONY : string/braceExpansionII2.cpp.s
+
+string/canMakePaliQueries.o: string/canMakePaliQueries.cpp.o
+
+.PHONY : string/canMakePaliQueries.o
+
+# target to build an object file
+string/canMakePaliQueries.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/canMakePaliQueries.cpp.o
+.PHONY : string/canMakePaliQueries.cpp.o
+
+string/canMakePaliQueries.i: string/canMakePaliQueries.cpp.i
+
+.PHONY : string/canMakePaliQueries.i
+
+# target to preprocess a source file
+string/canMakePaliQueries.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/canMakePaliQueries.cpp.i
+.PHONY : string/canMakePaliQueries.cpp.i
+
+string/canMakePaliQueries.s: string/canMakePaliQueries.cpp.s
+
+.PHONY : string/canMakePaliQueries.s
+
+# target to generate assembly for a file
+string/canMakePaliQueries.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/canMakePaliQueries.cpp.s
+.PHONY : string/canMakePaliQueries.cpp.s
+
+string/lengthOfLastWord.o: string/lengthOfLastWord.cpp.o
+
+.PHONY : string/lengthOfLastWord.o
+
+# target to build an object file
+string/lengthOfLastWord.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/lengthOfLastWord.cpp.o
+.PHONY : string/lengthOfLastWord.cpp.o
+
+string/lengthOfLastWord.i: string/lengthOfLastWord.cpp.i
+
+.PHONY : string/lengthOfLastWord.i
+
+# target to preprocess a source file
+string/lengthOfLastWord.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/lengthOfLastWord.cpp.i
+.PHONY : string/lengthOfLastWord.cpp.i
+
+string/lengthOfLastWord.s: string/lengthOfLastWord.cpp.s
+
+.PHONY : string/lengthOfLastWord.s
+
+# target to generate assembly for a file
+string/lengthOfLastWord.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/lengthOfLastWord.cpp.s
+.PHONY : string/lengthOfLastWord.cpp.s
+
+string/removeSubfolders.o: string/removeSubfolders.cpp.o
+
+.PHONY : string/removeSubfolders.o
+
+# target to build an object file
+string/removeSubfolders.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/removeSubfolders.cpp.o
+.PHONY : string/removeSubfolders.cpp.o
+
+string/removeSubfolders.i: string/removeSubfolders.cpp.i
+
+.PHONY : string/removeSubfolders.i
+
+# target to preprocess a source file
+string/removeSubfolders.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/removeSubfolders.cpp.i
+.PHONY : string/removeSubfolders.cpp.i
+
+string/removeSubfolders.s: string/removeSubfolders.cpp.s
+
+.PHONY : string/removeSubfolders.s
+
+# target to generate assembly for a file
+string/removeSubfolders.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/removeSubfolders.cpp.s
+.PHONY : string/removeSubfolders.cpp.s
+
+string/spellchecker.o: string/spellchecker.cpp.o
+
+.PHONY : string/spellchecker.o
+
+# target to build an object file
+string/spellchecker.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/spellchecker.cpp.o
+.PHONY : string/spellchecker.cpp.o
+
+string/spellchecker.i: string/spellchecker.cpp.i
+
+.PHONY : string/spellchecker.i
+
+# target to preprocess a source file
+string/spellchecker.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/spellchecker.cpp.i
+.PHONY : string/spellchecker.cpp.i
+
+string/spellchecker.s: string/spellchecker.cpp.s
+
+.PHONY : string/spellchecker.s
+
+# target to generate assembly for a file
+string/spellchecker.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/spellchecker.cpp.s
+.PHONY : string/spellchecker.cpp.s
+
+string/validIPAddress.o: string/validIPAddress.cpp.o
+
+.PHONY : string/validIPAddress.o
+
+# target to build an object file
+string/validIPAddress.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/validIPAddress.cpp.o
+.PHONY : string/validIPAddress.cpp.o
+
+string/validIPAddress.i: string/validIPAddress.cpp.i
+
+.PHONY : string/validIPAddress.i
+
+# target to preprocess a source file
+string/validIPAddress.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/validIPAddress.cpp.i
+.PHONY : string/validIPAddress.cpp.i
+
+string/validIPAddress.s: string/validIPAddress.cpp.s
+
+.PHONY : string/validIPAddress.s
+
+# target to generate assembly for a file
+string/validIPAddress.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/string/validIPAddress.cpp.s
+.PHONY : string/validIPAddress.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -372,6 +588,30 @@ help:
 	@echo "... backTrack/splitIntoFibonacci.o"
 	@echo "... backTrack/splitIntoFibonacci.i"
 	@echo "... backTrack/splitIntoFibonacci.s"
+	@echo "... string/addStrings.o"
+	@echo "... string/addStrings.i"
+	@echo "... string/addStrings.s"
+	@echo "... string/braceExpansionII.o"
+	@echo "... string/braceExpansionII.i"
+	@echo "... string/braceExpansionII.s"
+	@echo "... string/braceExpansionII2.o"
+	@echo "... string/braceExpansionII2.i"
+	@echo "... string/braceExpansionII2.s"
+	@echo "... string/canMakePaliQueries.o"
+	@echo "... string/canMakePaliQueries.i"
+	@echo "... string/canMakePaliQueries.s"
+	@echo "... string/lengthOfLastWord.o"
+	@echo "... string/lengthOfLastWord.i"
+	@echo "... string/lengthOfLastWord.s"
+	@echo "... string/removeSubfolders.o"
+	@echo "... string/removeSubfolders.i"
+	@echo "... string/removeSubfolders.s"
+	@echo "... string/spellchecker.o"
+	@echo "... string/spellchecker.i"
+	@echo "... string/spellchecker.s"
+	@echo "... string/validIPAddress.o"
+	@echo "... string/validIPAddress.i"
+	@echo "... string/validIPAddress.s"
 .PHONY : help
 
 

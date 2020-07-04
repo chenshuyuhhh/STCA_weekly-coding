@@ -74,12 +74,12 @@ preinstall:
 CMakeFiles/STCA_weekly_coding.dir/all:
 	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/depend
 	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target STCA_weekly_coding"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17 "Built target STCA_weekly_coding"
 .PHONY : CMakeFiles/STCA_weekly_coding.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/STCA_weekly_coding.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles 17
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/STCA_weekly_coding.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/STCA_weekly_coding.dir/rule

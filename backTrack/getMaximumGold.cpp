@@ -57,12 +57,12 @@ int getMaximumGold(vector<vector<int>> &grid) {
     return max_money;
 }
 
-int main() {
-    vector<vector<int>> v = {
-            {0, 6, 0},
-            {5, 8, 7},
-            {0, 9, 0}
-    };
-
-    cout << getMaximumGold(v);
-}
+//int main() {
+//    vector<vector<int>> v = {
+//            {0, 6, 0},
+//            {5, 8, 7},
+//            {0, 9, 0}
+//    };
+//
+//    cout << getMaximumGold(v);
+//}

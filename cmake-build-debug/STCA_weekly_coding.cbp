@@ -104,6 +104,33 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/backTrack/splitIntoFibonacci.cpp">
 			<Option target="STCA_weekly_coding"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/addStrings.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/braceExpansionII.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/braceExpansionII2.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/braceExpansionII2.h">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/canMakePaliQueries.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/lengthOfLastWord.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/removeSubfolders.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/spellchecker.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/validIPAddress.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
