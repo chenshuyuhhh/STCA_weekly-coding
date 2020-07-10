@@ -80,6 +80,33 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/AB.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/node.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/num.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/prime.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p1.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p2.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p3.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p4.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p5.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/backTrack/CompositeSumiii.cpp">
 			<Option target="STCA_weekly_coding"/>
 		</Unit>
@@ -104,6 +131,33 @@
 		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/backTrack/splitIntoFibonacci.cpp">
 			<Option target="STCA_weekly_coding"/>
 		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/advantageCount.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/bagOfTokensScore.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/hasGroupsSizeX.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/isNStraightHand.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/judgePoint24.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/maxScore.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/minDominoRotations.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/sort/quickSort.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
+		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/sort/quickSortArray.cpp">
+			<Option target="STCA_weekly_coding"/>
+		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/addStrings.cpp">
 			<Option target="STCA_weekly_coding"/>
 		</Unit>
@@ -111,9 +165,6 @@
 			<Option target="STCA_weekly_coding"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/braceExpansionII2.cpp">
-			<Option target="STCA_weekly_coding"/>
-		</Unit>
-		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/braceExpansionII2.h">
 			<Option target="STCA_weekly_coding"/>
 		</Unit>
 		<Unit filename="/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/canMakePaliQueries.cpp">

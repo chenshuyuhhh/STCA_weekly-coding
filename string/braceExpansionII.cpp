@@ -12,7 +12,7 @@ using namespace std;
 // Output: ["ac","ad","ae","bc","bd","be"]
 
 // 合并集合s和s1，并清空s1
-void ADD(s et<string> &s, set<string> &s1) {
+void ADD(set<string> &s, set<string> &s1) {
     for (auto x : s1) {
         s.insert(x);
     }
@@ -84,6 +84,6 @@ vector<string> braceExpansionII(string expression) {
     return vector<string>(s.begin(), s.end());
 }
 
-int main() {
-    braceExpansionII("cb{a,b}bc{c,{d,e}}");
-}
+//int main() {
+//    braceExpansionII("cb{a,b}bc{c,{d,e}}");
+//}

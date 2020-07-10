@@ -265,6 +265,240 @@ CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII2.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/braceExpansionII2.cpp -o CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII2.cpp.s
 
+CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.o: ../card/hasGroupsSizeX.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/hasGroupsSizeX.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/hasGroupsSizeX.cpp > CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/hasGroupsSizeX.cpp -o CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.o: ../card/isNStraightHand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/isNStraightHand.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/isNStraightHand.cpp > CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/isNStraightHand.cpp -o CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.o: ../sort/quickSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/sort/quickSort.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/sort/quickSort.cpp > CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/sort/quickSort.cpp -o CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.o: ../sort/quickSortArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/sort/quickSortArray.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/sort/quickSortArray.cpp > CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/sort/quickSortArray.cpp -o CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.o: ../7-5/AB.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/AB.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/AB.cpp > CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/AB.cpp -o CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.o: ../7-5/num.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/num.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/num.cpp > CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/num.cpp -o CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.o: ../7-5/prime.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/prime.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/prime.cpp > CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/prime.cpp -o CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.o: ../7-5/node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/node.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/node.cpp > CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-5/node.cpp -o CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.o: ../card/advantageCount.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/advantageCount.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/advantageCount.cpp > CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/advantageCount.cpp -o CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.o: ../7-9/p1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p1.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p1.cpp > CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p1.cpp -o CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.o: ../7-9/p2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p2.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p2.cpp > CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p2.cpp -o CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.o: ../7-9/p3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p3.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p3.cpp > CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p3.cpp -o CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.o: ../7-9/p4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p4.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p4.cpp > CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p4.cpp -o CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.o: ../card/bagOfTokensScore.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/bagOfTokensScore.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/bagOfTokensScore.cpp > CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/bagOfTokensScore.cpp -o CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.o: ../card/minDominoRotations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/minDominoRotations.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/minDominoRotations.cpp > CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/minDominoRotations.cpp -o CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.o: ../card/maxScore.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/maxScore.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/maxScore.cpp > CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/maxScore.cpp -o CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.o: ../card/judgePoint24.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/judgePoint24.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/judgePoint24.cpp > CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/card/judgePoint24.cpp -o CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.s
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.o: CMakeFiles/STCA_weekly_coding.dir/flags.make
+CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.o: ../7-9/p5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.o -c /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p5.cpp
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p5.cpp > CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.i
+
+CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p5.cpp -o CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.s
+
 # Object files for target STCA_weekly_coding
 STCA_weekly_coding_OBJECTS = \
 "CMakeFiles/STCA_weekly_coding.dir/backTrack/PowerSetLCCI.cpp.o" \
@@ -282,7 +516,25 @@ STCA_weekly_coding_OBJECTS = \
 "CMakeFiles/STCA_weekly_coding.dir/string/canMakePaliQueries.cpp.o" \
 "CMakeFiles/STCA_weekly_coding.dir/string/removeSubfolders.cpp.o" \
 "CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII.cpp.o" \
-"CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII2.cpp.o"
+"CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII2.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.o" \
+"CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.o"
 
 # External object files for target STCA_weekly_coding
 STCA_weekly_coding_EXTERNAL_OBJECTS =
@@ -303,9 +555,27 @@ STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/string/canMakePaliQueries.
 STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/string/removeSubfolders.cpp.o
 STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII.cpp.o
 STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/string/braceExpansionII2.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.o
+STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.o
 STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/build.make
 STCA_weekly_coding: CMakeFiles/STCA_weekly_coding.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable STCA_weekly_coding"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking CXX executable STCA_weekly_coding"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/STCA_weekly_coding.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

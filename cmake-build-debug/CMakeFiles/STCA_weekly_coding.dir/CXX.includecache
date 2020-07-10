@@ -6,13 +6,27 @@
 
 #IncludeRegexTransform: 
 
-/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/string/braceExpansionII.cpp
-string
+/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p2.cpp
+iostream
 -
-vector
+algorithm
+-
+cmath
 -
 set
 -
-stack
+map
+-
+vector
+-
+
+/Users/chenshuyu/Code/C:C++/STCA_weekly-coding/7-9/p3.cpp
+iostream
+-
+cmath
+-
+set
+-
+vector
 -
 

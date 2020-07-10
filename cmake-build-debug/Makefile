@@ -123,6 +123,249 @@ STCA_weekly_coding/fast:
 	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/build
 .PHONY : STCA_weekly_coding/fast
 
+7-5/AB.o: 7-5/AB.cpp.o
+
+.PHONY : 7-5/AB.o
+
+# target to build an object file
+7-5/AB.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.o
+.PHONY : 7-5/AB.cpp.o
+
+7-5/AB.i: 7-5/AB.cpp.i
+
+.PHONY : 7-5/AB.i
+
+# target to preprocess a source file
+7-5/AB.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.i
+.PHONY : 7-5/AB.cpp.i
+
+7-5/AB.s: 7-5/AB.cpp.s
+
+.PHONY : 7-5/AB.s
+
+# target to generate assembly for a file
+7-5/AB.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/AB.cpp.s
+.PHONY : 7-5/AB.cpp.s
+
+7-5/node.o: 7-5/node.cpp.o
+
+.PHONY : 7-5/node.o
+
+# target to build an object file
+7-5/node.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.o
+.PHONY : 7-5/node.cpp.o
+
+7-5/node.i: 7-5/node.cpp.i
+
+.PHONY : 7-5/node.i
+
+# target to preprocess a source file
+7-5/node.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.i
+.PHONY : 7-5/node.cpp.i
+
+7-5/node.s: 7-5/node.cpp.s
+
+.PHONY : 7-5/node.s
+
+# target to generate assembly for a file
+7-5/node.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/node.cpp.s
+.PHONY : 7-5/node.cpp.s
+
+7-5/num.o: 7-5/num.cpp.o
+
+.PHONY : 7-5/num.o
+
+# target to build an object file
+7-5/num.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.o
+.PHONY : 7-5/num.cpp.o
+
+7-5/num.i: 7-5/num.cpp.i
+
+.PHONY : 7-5/num.i
+
+# target to preprocess a source file
+7-5/num.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.i
+.PHONY : 7-5/num.cpp.i
+
+7-5/num.s: 7-5/num.cpp.s
+
+.PHONY : 7-5/num.s
+
+# target to generate assembly for a file
+7-5/num.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/num.cpp.s
+.PHONY : 7-5/num.cpp.s
+
+7-5/prime.o: 7-5/prime.cpp.o
+
+.PHONY : 7-5/prime.o
+
+# target to build an object file
+7-5/prime.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.o
+.PHONY : 7-5/prime.cpp.o
+
+7-5/prime.i: 7-5/prime.cpp.i
+
+.PHONY : 7-5/prime.i
+
+# target to preprocess a source file
+7-5/prime.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.i
+.PHONY : 7-5/prime.cpp.i
+
+7-5/prime.s: 7-5/prime.cpp.s
+
+.PHONY : 7-5/prime.s
+
+# target to generate assembly for a file
+7-5/prime.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-5/prime.cpp.s
+.PHONY : 7-5/prime.cpp.s
+
+7-9/p1.o: 7-9/p1.cpp.o
+
+.PHONY : 7-9/p1.o
+
+# target to build an object file
+7-9/p1.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.o
+.PHONY : 7-9/p1.cpp.o
+
+7-9/p1.i: 7-9/p1.cpp.i
+
+.PHONY : 7-9/p1.i
+
+# target to preprocess a source file
+7-9/p1.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.i
+.PHONY : 7-9/p1.cpp.i
+
+7-9/p1.s: 7-9/p1.cpp.s
+
+.PHONY : 7-9/p1.s
+
+# target to generate assembly for a file
+7-9/p1.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p1.cpp.s
+.PHONY : 7-9/p1.cpp.s
+
+7-9/p2.o: 7-9/p2.cpp.o
+
+.PHONY : 7-9/p2.o
+
+# target to build an object file
+7-9/p2.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.o
+.PHONY : 7-9/p2.cpp.o
+
+7-9/p2.i: 7-9/p2.cpp.i
+
+.PHONY : 7-9/p2.i
+
+# target to preprocess a source file
+7-9/p2.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.i
+.PHONY : 7-9/p2.cpp.i
+
+7-9/p2.s: 7-9/p2.cpp.s
+
+.PHONY : 7-9/p2.s
+
+# target to generate assembly for a file
+7-9/p2.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p2.cpp.s
+.PHONY : 7-9/p2.cpp.s
+
+7-9/p3.o: 7-9/p3.cpp.o
+
+.PHONY : 7-9/p3.o
+
+# target to build an object file
+7-9/p3.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.o
+.PHONY : 7-9/p3.cpp.o
+
+7-9/p3.i: 7-9/p3.cpp.i
+
+.PHONY : 7-9/p3.i
+
+# target to preprocess a source file
+7-9/p3.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.i
+.PHONY : 7-9/p3.cpp.i
+
+7-9/p3.s: 7-9/p3.cpp.s
+
+.PHONY : 7-9/p3.s
+
+# target to generate assembly for a file
+7-9/p3.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p3.cpp.s
+.PHONY : 7-9/p3.cpp.s
+
+7-9/p4.o: 7-9/p4.cpp.o
+
+.PHONY : 7-9/p4.o
+
+# target to build an object file
+7-9/p4.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.o
+.PHONY : 7-9/p4.cpp.o
+
+7-9/p4.i: 7-9/p4.cpp.i
+
+.PHONY : 7-9/p4.i
+
+# target to preprocess a source file
+7-9/p4.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.i
+.PHONY : 7-9/p4.cpp.i
+
+7-9/p4.s: 7-9/p4.cpp.s
+
+.PHONY : 7-9/p4.s
+
+# target to generate assembly for a file
+7-9/p4.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p4.cpp.s
+.PHONY : 7-9/p4.cpp.s
+
+7-9/p5.o: 7-9/p5.cpp.o
+
+.PHONY : 7-9/p5.o
+
+# target to build an object file
+7-9/p5.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.o
+.PHONY : 7-9/p5.cpp.o
+
+7-9/p5.i: 7-9/p5.cpp.i
+
+.PHONY : 7-9/p5.i
+
+# target to preprocess a source file
+7-9/p5.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.i
+.PHONY : 7-9/p5.cpp.i
+
+7-9/p5.s: 7-9/p5.cpp.s
+
+.PHONY : 7-9/p5.s
+
+# target to generate assembly for a file
+7-9/p5.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/7-9/p5.cpp.s
+.PHONY : 7-9/p5.cpp.s
+
 backTrack/CompositeSumiii.o: backTrack/CompositeSumiii.cpp.o
 
 .PHONY : backTrack/CompositeSumiii.o
@@ -338,6 +581,249 @@ backTrack/splitIntoFibonacci.s: backTrack/splitIntoFibonacci.cpp.s
 backTrack/splitIntoFibonacci.cpp.s:
 	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/backTrack/splitIntoFibonacci.cpp.s
 .PHONY : backTrack/splitIntoFibonacci.cpp.s
+
+card/advantageCount.o: card/advantageCount.cpp.o
+
+.PHONY : card/advantageCount.o
+
+# target to build an object file
+card/advantageCount.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.o
+.PHONY : card/advantageCount.cpp.o
+
+card/advantageCount.i: card/advantageCount.cpp.i
+
+.PHONY : card/advantageCount.i
+
+# target to preprocess a source file
+card/advantageCount.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.i
+.PHONY : card/advantageCount.cpp.i
+
+card/advantageCount.s: card/advantageCount.cpp.s
+
+.PHONY : card/advantageCount.s
+
+# target to generate assembly for a file
+card/advantageCount.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/advantageCount.cpp.s
+.PHONY : card/advantageCount.cpp.s
+
+card/bagOfTokensScore.o: card/bagOfTokensScore.cpp.o
+
+.PHONY : card/bagOfTokensScore.o
+
+# target to build an object file
+card/bagOfTokensScore.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.o
+.PHONY : card/bagOfTokensScore.cpp.o
+
+card/bagOfTokensScore.i: card/bagOfTokensScore.cpp.i
+
+.PHONY : card/bagOfTokensScore.i
+
+# target to preprocess a source file
+card/bagOfTokensScore.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.i
+.PHONY : card/bagOfTokensScore.cpp.i
+
+card/bagOfTokensScore.s: card/bagOfTokensScore.cpp.s
+
+.PHONY : card/bagOfTokensScore.s
+
+# target to generate assembly for a file
+card/bagOfTokensScore.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/bagOfTokensScore.cpp.s
+.PHONY : card/bagOfTokensScore.cpp.s
+
+card/hasGroupsSizeX.o: card/hasGroupsSizeX.cpp.o
+
+.PHONY : card/hasGroupsSizeX.o
+
+# target to build an object file
+card/hasGroupsSizeX.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.o
+.PHONY : card/hasGroupsSizeX.cpp.o
+
+card/hasGroupsSizeX.i: card/hasGroupsSizeX.cpp.i
+
+.PHONY : card/hasGroupsSizeX.i
+
+# target to preprocess a source file
+card/hasGroupsSizeX.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.i
+.PHONY : card/hasGroupsSizeX.cpp.i
+
+card/hasGroupsSizeX.s: card/hasGroupsSizeX.cpp.s
+
+.PHONY : card/hasGroupsSizeX.s
+
+# target to generate assembly for a file
+card/hasGroupsSizeX.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/hasGroupsSizeX.cpp.s
+.PHONY : card/hasGroupsSizeX.cpp.s
+
+card/isNStraightHand.o: card/isNStraightHand.cpp.o
+
+.PHONY : card/isNStraightHand.o
+
+# target to build an object file
+card/isNStraightHand.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.o
+.PHONY : card/isNStraightHand.cpp.o
+
+card/isNStraightHand.i: card/isNStraightHand.cpp.i
+
+.PHONY : card/isNStraightHand.i
+
+# target to preprocess a source file
+card/isNStraightHand.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.i
+.PHONY : card/isNStraightHand.cpp.i
+
+card/isNStraightHand.s: card/isNStraightHand.cpp.s
+
+.PHONY : card/isNStraightHand.s
+
+# target to generate assembly for a file
+card/isNStraightHand.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/isNStraightHand.cpp.s
+.PHONY : card/isNStraightHand.cpp.s
+
+card/judgePoint24.o: card/judgePoint24.cpp.o
+
+.PHONY : card/judgePoint24.o
+
+# target to build an object file
+card/judgePoint24.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.o
+.PHONY : card/judgePoint24.cpp.o
+
+card/judgePoint24.i: card/judgePoint24.cpp.i
+
+.PHONY : card/judgePoint24.i
+
+# target to preprocess a source file
+card/judgePoint24.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.i
+.PHONY : card/judgePoint24.cpp.i
+
+card/judgePoint24.s: card/judgePoint24.cpp.s
+
+.PHONY : card/judgePoint24.s
+
+# target to generate assembly for a file
+card/judgePoint24.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/judgePoint24.cpp.s
+.PHONY : card/judgePoint24.cpp.s
+
+card/maxScore.o: card/maxScore.cpp.o
+
+.PHONY : card/maxScore.o
+
+# target to build an object file
+card/maxScore.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.o
+.PHONY : card/maxScore.cpp.o
+
+card/maxScore.i: card/maxScore.cpp.i
+
+.PHONY : card/maxScore.i
+
+# target to preprocess a source file
+card/maxScore.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.i
+.PHONY : card/maxScore.cpp.i
+
+card/maxScore.s: card/maxScore.cpp.s
+
+.PHONY : card/maxScore.s
+
+# target to generate assembly for a file
+card/maxScore.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/maxScore.cpp.s
+.PHONY : card/maxScore.cpp.s
+
+card/minDominoRotations.o: card/minDominoRotations.cpp.o
+
+.PHONY : card/minDominoRotations.o
+
+# target to build an object file
+card/minDominoRotations.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.o
+.PHONY : card/minDominoRotations.cpp.o
+
+card/minDominoRotations.i: card/minDominoRotations.cpp.i
+
+.PHONY : card/minDominoRotations.i
+
+# target to preprocess a source file
+card/minDominoRotations.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.i
+.PHONY : card/minDominoRotations.cpp.i
+
+card/minDominoRotations.s: card/minDominoRotations.cpp.s
+
+.PHONY : card/minDominoRotations.s
+
+# target to generate assembly for a file
+card/minDominoRotations.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/card/minDominoRotations.cpp.s
+.PHONY : card/minDominoRotations.cpp.s
+
+sort/quickSort.o: sort/quickSort.cpp.o
+
+.PHONY : sort/quickSort.o
+
+# target to build an object file
+sort/quickSort.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.o
+.PHONY : sort/quickSort.cpp.o
+
+sort/quickSort.i: sort/quickSort.cpp.i
+
+.PHONY : sort/quickSort.i
+
+# target to preprocess a source file
+sort/quickSort.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.i
+.PHONY : sort/quickSort.cpp.i
+
+sort/quickSort.s: sort/quickSort.cpp.s
+
+.PHONY : sort/quickSort.s
+
+# target to generate assembly for a file
+sort/quickSort.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/sort/quickSort.cpp.s
+.PHONY : sort/quickSort.cpp.s
+
+sort/quickSortArray.o: sort/quickSortArray.cpp.o
+
+.PHONY : sort/quickSortArray.o
+
+# target to build an object file
+sort/quickSortArray.cpp.o:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.o
+.PHONY : sort/quickSortArray.cpp.o
+
+sort/quickSortArray.i: sort/quickSortArray.cpp.i
+
+.PHONY : sort/quickSortArray.i
+
+# target to preprocess a source file
+sort/quickSortArray.cpp.i:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.i
+.PHONY : sort/quickSortArray.cpp.i
+
+sort/quickSortArray.s: sort/quickSortArray.cpp.s
+
+.PHONY : sort/quickSortArray.s
+
+# target to generate assembly for a file
+sort/quickSortArray.cpp.s:
+	$(MAKE) -f CMakeFiles/STCA_weekly_coding.dir/build.make CMakeFiles/STCA_weekly_coding.dir/sort/quickSortArray.cpp.s
+.PHONY : sort/quickSortArray.cpp.s
 
 string/addStrings.o: string/addStrings.cpp.o
 
@@ -564,6 +1050,33 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... STCA_weekly_coding"
+	@echo "... 7-5/AB.o"
+	@echo "... 7-5/AB.i"
+	@echo "... 7-5/AB.s"
+	@echo "... 7-5/node.o"
+	@echo "... 7-5/node.i"
+	@echo "... 7-5/node.s"
+	@echo "... 7-5/num.o"
+	@echo "... 7-5/num.i"
+	@echo "... 7-5/num.s"
+	@echo "... 7-5/prime.o"
+	@echo "... 7-5/prime.i"
+	@echo "... 7-5/prime.s"
+	@echo "... 7-9/p1.o"
+	@echo "... 7-9/p1.i"
+	@echo "... 7-9/p1.s"
+	@echo "... 7-9/p2.o"
+	@echo "... 7-9/p2.i"
+	@echo "... 7-9/p2.s"
+	@echo "... 7-9/p3.o"
+	@echo "... 7-9/p3.i"
+	@echo "... 7-9/p3.s"
+	@echo "... 7-9/p4.o"
+	@echo "... 7-9/p4.i"
+	@echo "... 7-9/p4.s"
+	@echo "... 7-9/p5.o"
+	@echo "... 7-9/p5.i"
+	@echo "... 7-9/p5.s"
 	@echo "... backTrack/CompositeSumiii.o"
 	@echo "... backTrack/CompositeSumiii.i"
 	@echo "... backTrack/CompositeSumiii.s"
@@ -588,6 +1101,33 @@ help:
 	@echo "... backTrack/splitIntoFibonacci.o"
 	@echo "... backTrack/splitIntoFibonacci.i"
 	@echo "... backTrack/splitIntoFibonacci.s"
+	@echo "... card/advantageCount.o"
+	@echo "... card/advantageCount.i"
+	@echo "... card/advantageCount.s"
+	@echo "... card/bagOfTokensScore.o"
+	@echo "... card/bagOfTokensScore.i"
+	@echo "... card/bagOfTokensScore.s"
+	@echo "... card/hasGroupsSizeX.o"
+	@echo "... card/hasGroupsSizeX.i"
+	@echo "... card/hasGroupsSizeX.s"
+	@echo "... card/isNStraightHand.o"
+	@echo "... card/isNStraightHand.i"
+	@echo "... card/isNStraightHand.s"
+	@echo "... card/judgePoint24.o"
+	@echo "... card/judgePoint24.i"
+	@echo "... card/judgePoint24.s"
+	@echo "... card/maxScore.o"
+	@echo "... card/maxScore.i"
+	@echo "... card/maxScore.s"
+	@echo "... card/minDominoRotations.o"
+	@echo "... card/minDominoRotations.i"
+	@echo "... card/minDominoRotations.s"
+	@echo "... sort/quickSort.o"
+	@echo "... sort/quickSort.i"
+	@echo "... sort/quickSort.s"
+	@echo "... sort/quickSortArray.o"
+	@echo "... sort/quickSortArray.i"
+	@echo "... sort/quickSortArray.s"
 	@echo "... string/addStrings.o"
 	@echo "... string/addStrings.i"
 	@echo "... string/addStrings.s"
